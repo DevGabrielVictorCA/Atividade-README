@@ -25,11 +25,13 @@ Histórico de Produtividade: Registra os ciclos concluídos e o tempo total de f
 5. Requisitos: 
    
 Requisitos Funcionais: <br>
-RF01: O sistema deve permitir que o usuário defina o tempo de foco (em minutos).<br>
-RF02: O sistema deve permitir que o usuário defina o tempo de descanso (em minuto).<br>
-RF03: O sistema deve iniciar, pausar e redefinir o cronômetro.<br>
-RF04: O sistema deve emitir um alerta sonoro ao final de cada ciclo (foco/descanso).<br>
-RF05 (Futuro): O sistema deve permitir a criação e gerenciamento de tarefas.<br>
+<ul>
+   <li>RF01: O sistema deve permitir que o usuário defina o tempo de foco (em minutos).<br></li>
+   <li>RF02: O sistema deve permitir que o usuário defina o tempo de descanso (em minuto).<br></li>
+   <li>RF03: O sistema deve iniciar, pausar e redefinir o cronômetro.<br></li>
+   <li>RF04: O sistema deve emitir um alerta sonoro ao final de cada ciclo (foco/descanso).<br></li>
+   <li>RF05 (Futuro): O sistema deve permitir a criação e gerenciamento de tarefas.<br></li>
+</ul>
 
 Requisitos Não Funcionais: <br>
 RNF01: O sistema deve ser responsivo e adaptável a diferentes dispositivos.<br>
