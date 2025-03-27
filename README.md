@@ -23,9 +23,10 @@ Funcionalidades da Versão Inicial
 </ul>
 
 Funcionalidades Futuras (Próximas versões)
-
-Gerenciamento de Tarefas: Permite que o usuário crie, edite e conclua tarefas associadas a cada ciclo Pomodoro.<br>
-Histórico de Produtividade: Registra os ciclos concluídos e o tempo total de foco diário.<br>
+<ul>
+   <li>Gerenciamento de Tarefas: Permite que o usuário crie, edite e conclua tarefas associadas a cada ciclo Pomodoro.<br></li>
+   <li>Histórico de Produtividade: Registra os ciclos concluídos e o tempo total de foco diário.<br></li>
+</ul>
 
 6. Requisitos: 
    
