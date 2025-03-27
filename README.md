@@ -34,9 +34,11 @@ Requisitos Funcionais: <br>
 </ul>
 
 Requisitos Não Funcionais: <br>
-RNF01: O sistema deve ser responsivo e adaptável a diferentes dispositivos.<br>
-RNF02: A interface deve ser simples e intuitiva.<br>
-RNF03: O desempenho do timer deve ser preciso de segundo, com variação máxima de 1.<br>
+<ul>
+   <li>RNF01: O sistema deve ser responsivo e adaptável a diferentes dispositivos.<br></li>
+   <li>RNF02: A interface deve ser simples e intuitiva.<br></li>
+   <li>RNF03: O desempenho do timer deve ser preciso de segundo, com variação máxima de 1.<br></li>
+</ul>
 
 7. Prototipagem e interface: 
 A interface será projetada inspirada na figura de um patinho com uma pegada animada e minimalista, com destaque para o timer e os controles principais. Nas versões futuras, uma seção de tarefas será integrada de forma harmoniosa na interface.
