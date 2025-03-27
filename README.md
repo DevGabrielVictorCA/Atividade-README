@@ -1,4 +1,4 @@
-Pato Pomo
+**Pato Pomo**
 
 1. Introdução: 
 O PomoDucker é um aplicativo web que ajuda os usuários a gerenciar seu tempo de foco e descanso, utilizando a técnica Pomodoro. A aplicação permite configurar os tempos de foco e descanso de forma personalizados e em versões futuras, terá uma funcionalidade de gerenciamento de tarefas (tarefas).
