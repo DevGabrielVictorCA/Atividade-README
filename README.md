@@ -36,10 +36,6 @@ RNF01: O sistema deve ser responsivo e adaptável a diferentes dispositivos.<br>
 RNF02: A interface deve ser simples e intuitiva.<br>
 RNF03: O desempenho do timer deve ser preciso de segundo, com variação máxima de 1.<br>
 
-7. Prototipagem e interface:
-   
-A interface será projetada inspirada na figura de um patinho com uma pegada animada e minimalista, com destaque para o timer e os controles principais. Nas versões futuras, uma seção de tarefas será integrada de forma harmoniosa na interface.
+7. Prototipagem e interface: A interface será projetada inspirada na figura de um patinho com uma pegada animada e minimalista, com destaque para o timer e os controles principais. Nas versões futuras, uma seção de tarefas será integrada de forma harmoniosa na interface.
 
-9. Conclusão:
-    
-O Pomodoro Timer visa oferecer uma experiência fluida e eficaz para quem deseja utilizar a técnica Pomodoro no seu dia a dia. Com a implementação inicial focada no timer e, posteriormente nas tarefas, o software se adaptará ao crescimento das necessidades do usuário.
+9. Conclusão: O Pomodoro Timer visa oferecer uma experiência fluida e eficaz para quem deseja utilizar a técnica Pomodoro no seu dia a dia. Com a implementação inicial focada no timer e, posteriormente nas tarefas, o software se adaptará ao crescimento das necessidades do usuário.
