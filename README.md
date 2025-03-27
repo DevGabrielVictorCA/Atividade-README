@@ -13,16 +13,20 @@ Javascript Vanilla: Lógica do timer e interatividade da aplicação;
 Backend: Java (Spring Boot);
 Banco de Dados: MySQL.
 
-4. Funcionalidades: 
+4. Funcionalidades:
+   
 Funcionalidades da Versão Inicial
-Timer Perzonalizável: Permite que o usuário ajuste os tempos de foco e descanso.
-Iniciar/Pausar/Redefinir o Timer: Controles básicos para o funcionamento do Pomodoro.
-Alerta sonoro: Aviso ao final dos períodos de foco e descanso.
-Funcionalidades Futuras (Próximas versões)
-Gerenciamento de Tarefas: Permite que o usuário crie, edite e conclua tarefas associadas a cada ciclo Pomodoro.
-Histórico de Produtividade: Registra os ciclos concluídos e o tempo total de foco diário.
 
-5. Requisitos: 
+Timer Perzonalizável: Permite que o usuário ajuste os tempos de foco e descanso.<br>
+Iniciar/Pausar/Redefinir o Timer: Controles básicos para o funcionamento do Pomodoro.<br>
+Alerta sonoro: Aviso ao final dos períodos de foco e descanso.<br>
+
+Funcionalidades Futuras (Próximas versões)
+
+Gerenciamento de Tarefas: Permite que o usuário crie, edite e conclua tarefas associadas a cada ciclo Pomodoro.<br>
+Histórico de Produtividade: Registra os ciclos concluídos e o tempo total de foco diário.<br>
+
+6. Requisitos: 
    
 Requisitos Funcionais: <br>
 <ul>
