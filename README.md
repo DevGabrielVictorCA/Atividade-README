@@ -22,7 +22,7 @@ Funcionalidades Futuras (Próximas versões)
 Gerenciamento de Tarefas: Permite que o usuário crie, edite e conclua tarefas associadas a cada ciclo Pomodoro.
 Histórico de Produtividade: Registra os ciclos concluídos e o tempo total de foco diário.
 
-5. Requisitos: **
+5. Requisitos: 
    
 Requisitos Funcionais: <br>
 RF01: O sistema deve permitir que o usuário defina o tempo de foco (em minutos).<br>
