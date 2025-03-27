@@ -16,10 +16,11 @@ Banco de Dados: MySQL.
 4. Funcionalidades:
    
 Funcionalidades da Versão Inicial
-
-Timer Perzonalizável: Permite que o usuário ajuste os tempos de foco e descanso.<br>
-Iniciar/Pausar/Redefinir o Timer: Controles básicos para o funcionamento do Pomodoro.<br>
-Alerta sonoro: Aviso ao final dos períodos de foco e descanso.<br>
+<ul>
+   <li>Timer Perzonalizável: Permite que o usuário ajuste os tempos de foco e descanso.<br></li>
+   <li>Iniciar/Pausar/Redefinir o Timer: Controles básicos para o funcionamento do Pomodoro.<br></li>
+   <li>Alerta sonoro: Aviso ao final dos períodos de foco e descanso.<br></li>
+</ul>
 
 Funcionalidades Futuras (Próximas versões)
 
